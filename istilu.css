@@ -1,0 +1,39 @@
+h1{
+    color:gray;
+}
+
+h2{
+    color:cadetblue;
+    font-size: 28px;
+    font-style: italic;
+}
+
+h4{
+    color:lightseagreen;
+    font-size: 20px
+}
+
+h3{
+    font-size: 21px;
+    font-style: italic;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+        }
+
+h6{
+    font-size: 15px;
+    font-style: italic;
+        }
+
+h5{
+    font-style: italic;
+    font-display: auto;
+    font-size: 19px;
+    }
+
+.tags{
+    padding: 20px;
+    text-align: center;
+}
