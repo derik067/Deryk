@@ -1,0 +1,15 @@
+.peitomarretada{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 300px;
+    padding-right: 300px;
+    padding-left: 100px;
+    font-size: 50px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

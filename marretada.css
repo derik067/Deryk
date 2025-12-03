@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#frase2{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+    align-content: center;
+    padding-top: 250px;
+}
+
+#thor{
+    padding-left: 250px;
+}
